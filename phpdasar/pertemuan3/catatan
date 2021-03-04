@@ -1,0 +1,17 @@
+<?php 
+// struktur kendali
+
+// Pengulangan
+// for
+// while
+// do.. while
+// foreach (digunakan untuk array)
+
+// Pengkondisian
+// if.. else
+// if.. else if.. else
+// ternary (untuk menggantikan sintaks if else yang sederhana)
+// switch
+
+
+?>
